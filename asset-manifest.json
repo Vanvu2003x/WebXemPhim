@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebXemPhim/static/css/main.0831f5f1.css",
+    "main.js": "/WebXemPhim/static/js/main.9d73b052.js",
+    "static/js/453.a05df39f.chunk.js": "/WebXemPhim/static/js/453.a05df39f.chunk.js",
+    "index.html": "/WebXemPhim/index.html",
+    "main.0831f5f1.css.map": "/WebXemPhim/static/css/main.0831f5f1.css.map",
+    "main.9d73b052.js.map": "/WebXemPhim/static/js/main.9d73b052.js.map",
+    "453.a05df39f.chunk.js.map": "/WebXemPhim/static/js/453.a05df39f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0831f5f1.css",
+    "static/js/main.9d73b052.js"
+  ]
+}
